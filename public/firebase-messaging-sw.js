@@ -10,13 +10,13 @@ importScripts('https://cdn.jsdelivr.net/npm/idb-keyval@6/dist/umd.js');
 
 // Initialize the Firebase app in the service worker by passing the generated config
 const firebaseConfig = {
-  apiKey: 'AIzaSyBgp-Y1H1fZwwfKuneopikYQcF1Kbcs0cg',
-  authDomain: 'foodyman-single.firebaseapp.com',
-  projectId: 'foodyman-single',
-  storageBucket: 'foodyman-single.appspot.com',
-  messagingSenderId: '688807429304',
-  appId: '1:688807429304:web:01a399520de0bf9ce3a04d',
-  measurementId: 'G-DWK27MGQ9P',
+  apiKey: "AIzaSyDg-cJTPTiOW6jHvHH5-d8p8H-s3t_WKg0",
+  authDomain: "the-snackers.firebaseapp.com",
+  projectId: "the-snackers",
+  storageBucket: "the-snackers.appspot.com",
+  messagingSenderId: "1067109576987",
+  appId: "1:1067109576987:web:56ffd9b58c5af7f3ae63be",
+  measurementId: "G-WW2KFJ1XGW"
 };
 
 firebase.initializeApp(firebaseConfig);
