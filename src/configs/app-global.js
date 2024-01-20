@@ -1,6 +1,6 @@
-export const PROJECT_NAME = 'Foodyman marketplace';
-export const BASE_URL = 'https://single-api.foodyman.org';
-export const WEBSITE_URL = 'https://foodyman.org';
+export const PROJECT_NAME = 'The Snackers Food Admin';
+export const BASE_URL = 'https://snackers.endeavourdigital.in/admin_backend/public';
+export const WEBSITE_URL = 'https://thesnacker.endeavourdigital.in';
 export const api_url = BASE_URL + '/api/v1/';
 export const api_url_admin = BASE_URL + '/api/v1/dashboard/admin/';
 export const api_url_admin_dashboard = BASE_URL + '/api/v1/dashboard/';
@@ -11,14 +11,14 @@ export const example = BASE_URL + '/';
 export const defaultCenter = { lat: 40.7127281, lng: -74.0060152 };
 
 export const VAPID_KEY =
-  'BPF2UBmQ7aS14ryUSFFG0PNNYBaLlCvmsd2RHG6ndaHE6aL-_blBxQoK0KAohAS8tkbbdV_6R5RPmUWkJCVZXCM';
-export const API_KEY = 'AIzaSyBgp-Y1H1fZwwfKuneopikYQcF1Kbcs0cg';
-export const AUTH_DOMAIN = 'foodyman-single.firebaseapp.com';
-export const PROJECT_ID = 'foodyman-single';
-export const STORAGE_BUCKET = 'foodyman-single.appspot.com';
-export const MESSAGING_SENDER_ID = '688807429304';
-export const APP_ID = '1:688807429304:web:01a399520de0bf9ce3a04d';
-export const MEASUREMENT_ID = 'G-DWK27MGQ9P';
+  'BIMAsy4jHt3h6IzKlATDT8Nv8eaPAZoj1F9TYCXBAF8euJbpocyT6vHfayCmyg5IiKgHf76oqctO1ryj9yl-Pe8';
+export const API_KEY = 'AIzaSyDg-cJTPTiOW6jHvHH5-d8p8H-s3t_WKg0';
+export const AUTH_DOMAIN = 'the-snackers.firebaseapp.com';
+export const PROJECT_ID = 'the-snackers';
+export const STORAGE_BUCKET = 'the-snackers.appspot.com';
+export const MESSAGING_SENDER_ID = '1067109576987';
+export const APP_ID = '1:1067109576987:web:56ffd9b58c5af7f3ae63be';
+export const MEASUREMENT_ID = 'G-WW2KFJ1XGW';
 
 export const DEMO_SELLER = 515; // seller_id
 export const DEMO_SHOP = 515; // seller_id
